@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://angels-shoes-virtual-springer.trycloudflare.com/vnc.html
+URL       : https://licenses-ruling-changelog-projector.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-05-20 12:17:01
+Created   : 2026-05-20 17:51:36
 =======================================================
