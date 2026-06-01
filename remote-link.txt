@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://gazette-view-coins-looking.trycloudflare.com/vnc.html
+URL       : https://schools-pharmacies-change-adam.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-01 02:32:54
+Created   : 2026-06-01 10:12:33
 =======================================================
