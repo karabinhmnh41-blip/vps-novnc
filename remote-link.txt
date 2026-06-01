@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://schools-pharmacies-change-adam.trycloudflare.com/vnc.html
+URL       : https://accepting-mining-battery-monitoring.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-01 10:12:33
+Created   : 2026-06-01 19:52:53
 =======================================================
