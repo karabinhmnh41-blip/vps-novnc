@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://ten-focuses-profiles-non.trycloudflare.com/vnc.html
+URL       : https://dollars-genesis-ctrl-rising.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-02 02:31:59
+Created   : 2026-06-02 09:02:57
 =======================================================
