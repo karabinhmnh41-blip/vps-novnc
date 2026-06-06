@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://admissions-laden-notebooks-prepare.trycloudflare.com/vnc.html
+URL       : https://pregnant-cups-light-blogs.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-06 16:03:31
+Created   : 2026-06-06 20:55:46
 =======================================================
