@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://magnitude-voted-bride-recipe.trycloudflare.com/vnc.html
+URL       : https://nano-cheap-dns-synthesis.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-08 14:00:23
+Created   : 2026-06-08 21:42:40
 =======================================================
