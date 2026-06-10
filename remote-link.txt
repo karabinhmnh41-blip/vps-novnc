@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://makers-angeles-talked-prepared.trycloudflare.com/vnc.html
+URL       : https://bee-aims-eliminate-outsourcing.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-09 21:30:57
+Created   : 2026-06-10 02:08:38
 =======================================================
