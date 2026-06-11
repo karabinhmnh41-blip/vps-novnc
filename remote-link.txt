@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://transcripts-jamie-less-sending.trycloudflare.com/vnc.html
+URL       : https://veterans-encourages-arms-automobiles.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-11 09:10:41
+Created   : 2026-06-11 13:52:12
 =======================================================
