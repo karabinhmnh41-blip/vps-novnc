@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://rim-occasionally-wave-cleanup.trycloudflare.com/vnc.html
+URL       : https://oriented-discharge-eleven-tricks.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-24 08:20:00
+Created   : 2026-06-24 12:16:55
 =======================================================
