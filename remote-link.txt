@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://mailto-borders-dependent-executive.trycloudflare.com/vnc.html
+URL       : https://competent-electricity-shine-republic.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-30 12:06:27
+Created   : 2026-06-30 17:02:35
 =======================================================
