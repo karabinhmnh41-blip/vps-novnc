@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://coordination-migration-shop-shannon.trycloudflare.com/vnc.html
+URL       : https://curriculum-examining-examples-later.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-04 07:37:44
+Created   : 2026-07-04 11:18:28
 =======================================================
