@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://iowa-usgs-favors-handle.trycloudflare.com/vnc.html
+URL       : https://brussels-strike-joke-chi.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-20 07:53:00
+Created   : 2026-07-20 12:11:05
 =======================================================
