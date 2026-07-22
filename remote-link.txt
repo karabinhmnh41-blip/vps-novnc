@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://elder-moisture-amazing-turns.trycloudflare.com/vnc.html
+URL       : https://grab-alan-africa-substantially.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-22 16:16:56
+Created   : 2026-07-22 20:55:53
 =======================================================
