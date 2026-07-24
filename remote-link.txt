@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://punch-stephen-directories-accepting.trycloudflare.com/vnc.html
+URL       : https://springfield-thing-builds-humans.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-24 16:16:52
+Created   : 2026-07-24 20:57:07
 =======================================================
