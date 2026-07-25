@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://operated-folding-nova-races.trycloudflare.com/vnc.html
+URL       : https://fast-probably-truck-domains.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-25 01:29:01
+Created   : 2026-07-25 07:11:14
 =======================================================
