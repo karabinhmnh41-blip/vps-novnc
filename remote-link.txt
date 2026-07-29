@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://stanley-medline-closing-satin.trycloudflare.com/vnc.html
+URL       : https://joyce-telephony-patio-livestock.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-29 07:38:40
+Created   : 2026-07-29 11:55:36
 =======================================================
