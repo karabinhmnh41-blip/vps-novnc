@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://brands-now-victor-letters.trycloudflare.com/vnc.html
+URL       : https://stanley-medline-closing-satin.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-29 01:24:56
+Created   : 2026-07-29 07:38:40
 =======================================================
