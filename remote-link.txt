@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://valuable-communist-teacher-votes.trycloudflare.com/vnc.html
+URL       : https://chronicle-usc-glasses-victoria.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-12 20:33:15
+Created   : 2026-08-13 00:58:53
 =======================================================
