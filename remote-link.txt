@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://relates-empty-nov-dispatched.trycloudflare.com/vnc.html
+URL       : https://conference-milk-presidential-pizza.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-17 20:15:26
+Created   : 2026-08-18 00:34:00
 =======================================================
