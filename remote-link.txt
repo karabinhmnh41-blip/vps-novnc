@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://weekend-inexpensive-handle-requirements.trycloudflare.com/vnc.html
+URL       : https://incorporated-proper-heath-hottest.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-19 20:16:16
+Created   : 2026-08-20 00:34:40
 =======================================================
