@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://civic-attachment-holding-reveals.trycloudflare.com/vnc.html
+URL       : https://united-golden-permalink-express.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-24 20:18:43
+Created   : 2026-08-25 00:36:01
 =======================================================
