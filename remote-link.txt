@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://outlet-britain-believes-lemon.trycloudflare.com/vnc.html
+URL       : https://effort-intelligent-inquire-computation.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-12 21:48:50
+Created   : 2026-09-13 01:47:12
 =======================================================
