@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://patrick-deeply-recreational-hands.trycloudflare.com/vnc.html
+URL       : https://freeze-katrina-liquid-screen.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-16 22:29:40
+Created   : 2026-09-17 02:09:32
 =======================================================
