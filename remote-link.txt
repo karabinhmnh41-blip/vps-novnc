@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://pleasant-evanescence-facilities-championship.trycloudflare.com/vnc.html
+URL       : https://argue-fridge-group-diamond.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-25 09:55:57
+Created   : 2026-09-25 14:53:02
 =======================================================
