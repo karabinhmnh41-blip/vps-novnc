@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://little-remarks-metadata-remix.trycloudflare.com/vnc.html
+URL       : https://attached-strength-duncan-taxi.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-29 03:04:05
+Created   : 2026-09-29 11:00:06
 =======================================================
