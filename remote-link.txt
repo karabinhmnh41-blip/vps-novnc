@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://warcraft-switch-highlighted-draft.trycloudflare.com/vnc.html
+URL       : https://through-heating-paragraph-producing.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-03 18:26:05
+Created   : 2026-10-03 22:33:41
 =======================================================
