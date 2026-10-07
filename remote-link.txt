@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://certified-milton-reid-boom.trycloudflare.com/vnc.html
+URL       : https://announcement-used-kathy-falling.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-06 23:28:00
+Created   : 2026-10-07 03:03:45
 =======================================================
