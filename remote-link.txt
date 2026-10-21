@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://subdivision-flower-convergence-creations.trycloudflare.com/vnc.html
+URL       : https://dot-while-companion-yale.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-21 02:20:10
+Created   : 2026-10-21 09:45:49
 =======================================================
