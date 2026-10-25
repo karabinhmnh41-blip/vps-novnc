@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://offer-likely-sheffield-places.trycloudflare.com/vnc.html
+URL       : https://nec-event-vocabulary-voltage.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-25 17:59:09
+Created   : 2026-10-25 22:10:53
 =======================================================
