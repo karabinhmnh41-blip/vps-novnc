@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://nec-event-vocabulary-voltage.trycloudflare.com/vnc.html
+URL       : https://fruits-household-residential-precious.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-25 22:10:53
+Created   : 2026-10-26 02:06:05
 =======================================================
